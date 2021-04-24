@@ -1,0 +1,13 @@
+canvas{
+    border: 1px solid black;
+    display: block;
+    background-color: white;
+    margin: 20px auto;
+
+
+}
+body{
+    background-color: darkcyan;
+    text-align: center;
+    color: white;
+}
